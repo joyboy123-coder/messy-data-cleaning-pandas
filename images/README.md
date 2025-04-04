@@ -1,32 +1,32 @@
 ## 📸 Screenshots & Visuals  
-Visual snapshots of the project in action 🎬  
+A sneak peek into the project in action 🎥✨  
 
 ---
 
-### 🧹 Before Cleaning (Raw Data)  
-![Before Cleaning](images/before_cleaning.png)  
+### 🧼 Before Cleaning (Raw Data)  
+![Before Cleaning](images/screenshots/before_cleaning.png)  
 
-📎 This screenshot shows the **raw dataset** loaded into VS Code.  
-🔍 Notice:
-- Inconsistent formatting  
-- Missing values  
-- Untidy data  
+📎 This screenshot shows the raw dataset loaded into VS Code.  
+🚫 Messy name formats  
+⚠️ Missing age values  
+📅 Mixed date styles  
+🌆 Unclean city names  
 
 ---
 
-### ✨ After Cleaning (Processed Data)  
-![After Cleaning](images/after_cleaning.png)  
+### 💎 After Cleaning (Processed Data)  
+![After Cleaning](images/screenshots/after_cleaning.png)  
 
-📎 This screenshot shows the **cleaned dataset** after running the script.  
-✔️ `Name` columns are formatted properly  
-📆 `Date` values are standardized  
-🔢 `Age` values are filled  
-🏙️ `City` names are clean and title-cased  
+📎 This screenshot showcases the cleaned and well-structured data.  
+✅ Capitalized names  
+🗓️ Dates in standard format  
+🔢 Ages filled with realistic values  
+🏙️ Cities look neat and uniform  
 
 ---
 
 ### 🌟 Project Thumbnail  
-![Project Thumbnail](images/project_thumbnail.png)  
+![Project Thumbnail](assets/thumbnails/project_thumbnail.png)  
 
-🎯 A visual **thumbnail** representing this project — great for portfolios, blogs, or GitHub overviews!  
-🖼️ Gives a quick glance at the essence of the project  
+🎯 A beautiful visual representing this data cleaning project  
+🧩 Perfect for portfolios, blogs, or GitHub profile banners  
