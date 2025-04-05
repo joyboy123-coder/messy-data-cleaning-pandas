@@ -4,7 +4,8 @@ A sneak peek into the project in action 🎥✨
 ---
 
 ### 🧼 Before Cleaning (Raw Data)  
-![Before Cleaning](images/screenshots/before_cleaning.png)  
+![Before Cleaning]
+(images/screenshots/before_cleaning.png)  
 
 📎 This screenshot shows the raw dataset loaded into VS Code.  
 🚫 Messy name formats  
@@ -15,7 +16,8 @@ A sneak peek into the project in action 🎥✨
 ---
 
 ### 💎 After Cleaning (Processed Data)  
-![After Cleaning](images/screenshots/after_cleaning.png)  
+![After Cleaning]
+(images/screenshots/after_cleaning.png)  
 
 📎 This screenshot showcases the cleaned and well-structured data.  
 ✅ Capitalized names  
@@ -26,7 +28,8 @@ A sneak peek into the project in action 🎥✨
 ---
 
 ### 🌟 Project Thumbnail  
-![Project Thumbnail](assets/thumbnails/project_thumbnail.png)  
+![Project Thumbnail]
+(images/thumbnail/thumbnail.png)  
 
 🎯 A beautiful visual representing this data cleaning project  
 🧩 Perfect for portfolios, blogs, or GitHub profile banners  
